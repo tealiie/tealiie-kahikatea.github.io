@@ -79,10 +79,6 @@ li {
   text-align: center;
 }
 
-.three columns {
-  width: 20%;
-}
-
 .boxes {
   display: flex;
   flex-direction: column;
