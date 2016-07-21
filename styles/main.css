@@ -1,5 +1,11 @@
+body {
+background: url(../images/background.png) repeat-x;
+}
+}
+
 .header {
   background-color: black;
+  padding: 10px;
 }
 
 h1 {
@@ -8,7 +14,76 @@ h1 {
   color: pink;
 }
 
-h3 {
+h4 {
   text-align: center;
   color: pink;
+}
+
+.button {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  background-color: black;
+}
+
+button {
+  background-color: transparent;
+  color: pink;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  border: 0px solid black;
+}
+
+.cartoon {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+text-decoration: none;
+color: black;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+.sprint1 {
+  background-color: #FFDFF7;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FFDFF7;
+  font-size: 20px;
+}
+
+.sprint2 {
+  background-color: #FFBFEF;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FFBFEF;
+  font-size: 20px;
+}
+
+.siy2 {
+  background-color: #FFBFEF;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FFBFEF;
+  font-size: 20px;
 }
