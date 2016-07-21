@@ -1,6 +1,10 @@
 body {
 background: url(../images/background.png) repeat-x;
 }
+
+p {
+  color: white;
+  font-size: 16px;
 }
 
 .header {
@@ -19,20 +23,29 @@ h4 {
   color: pink;
 }
 
+h2 {
+  text-align: center;
+  color: pink;
+  text-decoration: underline;
+}
+
+h5 {
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
 .button {
   display: flex;
   justify-content: space-around;
   width: 100%;
-  background-color: black;
-}
-
-button {
-  background-color: transparent;
-  color: pink;
-  text-align: center;
-  text-decoration: none;
+  background-color: pink;
   font-size: 14px;
-  border: 0px solid black;
+  color: white;
 }
 
 .cartoon {
@@ -41,14 +54,24 @@ button {
   justify-content: center;
 }
 
-.boxes {
-  display: flex;
-  flex-direction: column;
+a:link{
+  text-decoration: none;
+  color: black;
 }
 
-a {
-text-decoration: none;
-color: black;
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+a:active {
+  text-decoration: none;
+  color: black;
 }
 
 li {
@@ -56,9 +79,9 @@ li {
   text-align: center;
 }
 
-h3 {
-  text-align: center;
-  color: white;
+.boxes {
+  display: flex;
+  flex-direction: column;
 }
 
 .sprint1 {
@@ -71,12 +94,12 @@ h3 {
 }
 
 .sprint2 {
-  background-color: #FFBFEF;
   border-style: solid;
   margin: 15px;
   border-radius: 10px;
-  border-color: #FFBFEF;
   font-size: 20px;
+  background-color: #FFBFEF;
+  border-color: #FFBFEF;
 }
 
 .siy2 {
