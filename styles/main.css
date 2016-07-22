@@ -106,6 +106,15 @@ img {
   border-color: #FFBFEF;
 }
 
+.sprint3 {
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #FF9FEF;
+  border-color: #FF9FEF;
+}
+
 .siy2 {
   background-color: #FFBFEF;
   border-style: solid;
