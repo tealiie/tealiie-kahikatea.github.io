@@ -79,6 +79,10 @@ li {
   text-align: center;
 }
 
+img {
+  max-width: 100%;
+}
+
 .boxes {
   display: flex;
   flex-direction: column;
