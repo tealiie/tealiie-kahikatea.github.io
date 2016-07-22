@@ -88,16 +88,7 @@ img {
   flex-direction: column;
 }
 
-.sprint1 {
-  background-color: #FFDFF7;
-  border-style: solid;
-  margin: 15px;
-  border-radius: 10px;
-  border-color: #FFDFF7;
-  font-size: 20px;
-}
-
-.sprint2 {
+.tech2 {
   border-style: solid;
   margin: 15px;
   border-radius: 10px;
@@ -106,13 +97,22 @@ img {
   border-color: #FFBFEF;
 }
 
-.sprint3 {
+.tech3 {
   border-style: solid;
   margin: 15px;
   border-radius: 10px;
   font-size: 20px;
   background-color: #FF9FEF;
   border-color: #FF9FEF;
+}
+
+.siy1 {
+  background-color: #FFDFF7;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FFDFF7;
+  font-size: 20px;
 }
 
 .siy2 {
@@ -123,3 +123,11 @@ img {
   border-color: #FFBFEF;
   font-size: 20px;
 }
+
+.siy3 {
+  background-color: #FF9FEF;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FF9FEF;
+  font-size: 20px;
