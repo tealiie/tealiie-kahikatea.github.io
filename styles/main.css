@@ -106,6 +106,15 @@ img {
   border-color: #FF9FEF;
 }
 
+.tec4 {
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #FF80DF;
+  border-color: #FF80DF;
+}
+
 .siy1 {
   background-color: #FFDFF7;
   border-style: solid;
