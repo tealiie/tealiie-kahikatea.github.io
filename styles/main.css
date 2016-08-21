@@ -124,6 +124,15 @@ img {
   border-color: #FF60DF;
 }
 
+.tec6 {
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #FF40CF;
+  border-color: #FF40CF;
+}
+
 .siy1 {
   background-color: #FFDFF7;
   border-style: solid;
