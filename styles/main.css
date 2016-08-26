@@ -198,20 +198,20 @@ img {
 
 .siy8
  {
-  background-color: #FF008F;
-  border-style: solid;
-  margin: 15px;
-  border-radius: 10px;
-  border-color: #FF008F;
-  font-size: 20px;
-}
-
-.siy9
- {
   background-color: #D02090;
   border-style: solid;
   margin: 15px;
   border-radius: 10px;
   border-color: #D02090;
+  font-size: 20px;
+}
+
+.siy9
+ {
+  background-color: #FF008F;
+  border-style: solid;
+  margin: 15px;
+  border-radius: 10px;
+  border-color: #FF008F;
   font-size: 20px;
 }
